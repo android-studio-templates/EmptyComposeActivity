@@ -1,0 +1,3 @@
+# EmptyComposeActivity
+
+### Android Studio Template
